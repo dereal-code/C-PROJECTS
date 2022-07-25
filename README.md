@@ -8,3 +8,5 @@ C is a procedural programming language while C++ is a procedural programming lan
 It is a header file which includes objects like cin to take input from the user and cout to output data to the user.
 # WHat is namespace std?
 It is just to tell the compiler that you're using a namespace called std.
+# Least number of functions in C++?
+Just one. main function
